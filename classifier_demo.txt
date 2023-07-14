@@ -1,0 +1,20 @@
+=====================================================save name:  classifier_demo 
+
+Accuracy: 
+ 0.8933333333333333 
+
+Confusion Matrix: 
+ [[80  8]
+ [ 8 54]] 
+
+Classification Report: 
+               precision    recall  f1-score   support
+
+           0       0.91      0.91      0.91        88
+           1       0.87      0.87      0.87        62
+
+    accuracy                           0.89       150
+   macro avg       0.89      0.89      0.89       150
+weighted avg       0.89      0.89      0.89       150
+ 
+
